@@ -1,4 +1,5 @@
   Setup and Use a Firewall on Windows
+  
   Objective
 
 The aim of this task was to configure and test firewall rules on a Windows 10 machine. I explored how to allow and block traffic, documented each step, and tested the rules for verification.
@@ -82,3 +83,4 @@ README.md (this file).
 
 
 Screenshots folder with proof of steps.
+
